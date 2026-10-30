@@ -11,5 +11,5 @@
 ## Запуск
 
 ```bash
-dotnet run --project VirtualMemoryLab
+dotnet run
 ```
